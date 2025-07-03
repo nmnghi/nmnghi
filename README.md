@@ -1,4 +1,4 @@
-# Hi 👋, I'm Minh Nghi
+# Hi, I'm Minh Nghi 🫶
 - 🎓 I'm a software engineering student with a passion for frontend development.<br>
 - 🛠️ I love building personal projects to explore design, UX, and web technologies.<br>
 - 🚀 Currently sharpening my skills through hands-on practice and learning by doing.<br>
