@@ -1,5 +1,5 @@
 # Hi, I'm Minh Nghi 🫶
-- 🎓 I'm a software engineering student of Can Tho University.<br>
+- 🎓 I'm a Software Engineering student of Can Tho University.<br>
 - 🛠️ I love building personal projects to sharpen my skills as an aspiring Fullstack Developer.<br>
 - 🚀 Currently sharpening my skills through hands-on practice and learning by doing.<br>
 - 🔍 Feel free to check out my GitHub to see what I've been working on!
